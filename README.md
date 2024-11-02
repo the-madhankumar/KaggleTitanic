@@ -103,7 +103,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
 ### Key Enhancements:
 1. **DVC Section**: Added a dedicated section to highlight DVC's role in the project, including data management practices.
