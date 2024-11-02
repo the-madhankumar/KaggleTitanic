@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = git+https://github.com/the-madhankumar/KaggleTitanic.git
