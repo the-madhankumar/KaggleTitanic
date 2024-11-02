@@ -48,7 +48,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn xgboost
 2. Open `model.ipynb` and run the script:
 
    ```bash
-   run each of the cell 
+   run each of the cell with the jupyter environment in the vscode or using the jupyter notebook
    ```
 
 3. The script will:
