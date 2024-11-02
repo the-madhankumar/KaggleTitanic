@@ -1,6 +1,3 @@
-Certainly! Here’s a professional `README.md` file for your Titanic survival prediction project. You can modify any section to better fit your needs.
-
-```markdown
 # Titanic Survival Prediction
 
 ## Overview
@@ -86,5 +83,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 - The Titanic dataset is available on Kaggle and is a common dataset used for beginner machine learning projects.
 - Special thanks to the authors of the libraries used in this project.
-
-```
